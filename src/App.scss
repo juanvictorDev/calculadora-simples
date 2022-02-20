@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: Rajdhani;
+}
+
+.App{
+  display: flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  
+  height: 100vh;
+  background: linear-gradient(45deg, #b426df, #302b63, #282846);
+}

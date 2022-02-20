@@ -1,0 +1,19 @@
+.creditos{
+  position: absolute;
+  bottom: 0;
+  
+  h2{
+    color:white;
+    margin-bottom:1rem;
+    
+    a{
+      color:rgb(159, 103, 231);
+      text-decoration:none;
+      transition:.3s;
+      
+      &:hover{
+        color:dodgerblue;
+      }
+    }
+  }
+}
