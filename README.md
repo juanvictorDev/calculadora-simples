@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <a href="https://electrum-juanvictordev.netlify.app/">
+  <a href="https://neon-calculator-juanvictordev.netlify.app/">
     <img height="70" src="https://user-images.githubusercontent.com/92947069/161645928-cf9fff90-4162-47a0-b507-184ffba41ada.png" />
   </a>
 </div>
