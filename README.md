@@ -28,9 +28,14 @@
 
 <h3 align="center">🔹Funcionalidade🔹</h3>
 
+<div align="center">
 
+  <img height="400" src="https://user-images.githubusercontent.com/92947069/162066389-af2af87a-2fee-4d2b-883b-28fe9035b152.gif" />
+  <p> 🟢 Adição // 🔴 Subtração // 🟣 Divisão // 🟠Multiplicação</p>
 
-<br><br>
+</div>
+  
+<br>
 
 <p align="center">feito com 💖 por:</p>
 
